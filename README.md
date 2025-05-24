@@ -12,7 +12,7 @@ This project integrates predictive modeling with spatial clustering and dimensio
 - Map geographic “hotspots” and clusters of high-risk areas  
 - Provide data-driven guidance for targeted public health interventions  
   
-_Data source:_ DOHMH HIV/AIDS Annual Report (2017–2021) :contentReference[oaicite:0]{index=0}
+_Data source:_ DOHMH HIV/AIDS Annual Report (2017–2021) (NYC OPEN DATA)
 
 ---
 
