@@ -31,7 +31,7 @@ _Data source:_ DOHMH HIV/AIDS Annual Report (2017–2021) (NYC OPEN DATA)
 | Language | Libraries & Packages                       |
 | :------- | :----------------------------------------- |
 | **R**     | tidyverse (dplyr, ggplot2), sf, caret, randomForest |
-| **Data**  | `DOHMH_HIV_AIDS_Cleaned.csv` :contentReference[oaicite:1]{index=1} |
+| **Data**  | `DOHMH_HIV_AIDS_Cleaned.csv`|
 
 ---
 
