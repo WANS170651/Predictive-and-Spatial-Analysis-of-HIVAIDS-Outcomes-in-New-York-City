@@ -5,20 +5,6 @@
 
 ---
 
-## 🧭 Table of Contents
-- [🔍 Project Overview](#-project-overview)  
-- [🚀 Features](#-features)  
-- [🛠️ Tech Stack](#️-tech-stack)  
-- [📂 Repo Structure](#-repo-structure)  
-- [⚙️ Installation & Setup](#️-installation--setup)  
-- [▶️ How to Run (in R)](#️-how-to-run-in-r)  
-- [📝 Usage](#️-usage)  
-- [📈 Results & Outputs](#-results--outputs)  
-- [🤝 Contributing](#-contributing)  
-- [📜 License](#-license)  
-
----
-
 ## 🔍 Project Overview
 New York City continues to face challenges in HIV/AIDS prevention and care despite ongoing interventions.  
 This project integrates predictive modeling with spatial clustering and dimensionality reduction to:
